@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+}
+
+funText {
+	color: orange;
+	font-size: 24px;
+	font-family: 'Roboto Slab', serif;
+}
+
+section1 {
+    text-align:center;
+}
